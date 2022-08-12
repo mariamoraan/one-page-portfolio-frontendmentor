@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mariamoraan/one-page-portfolio-frontendmentor)
+- Live Site URL: [Add live site URL here](https://one-page-portfolio-frontendmentor-h934t60ps-mia-moran.vercel.app/)
 
 ## My process
 
