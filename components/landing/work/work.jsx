@@ -49,7 +49,10 @@ const Work = () => {
                 >
                     {
                         works.map(({image}) => (
-                            <div className={styles['image-wrapper']}>
+                            <div 
+                            key={image}
+                            className={styles['image-wrapper']}
+                            >
                                 <Image
                                     layout="fill"
                                     objectFit="contain"
