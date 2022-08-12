@@ -1,5 +1,5 @@
 import useTranslation from 'next-translate/useTranslation';
-import Image from 'next/Image';
+import Image from 'next/image';
 import { useWindowSize } from '../../../hooks/size';
 import { gridElems } from './constants';
 import styles from './hero.module.css';
